@@ -1,2 +1,2 @@
-# TicTacToe-Game-by-Python-Intelligent-Agent
-A product from COS30019 unit
+Require Aima-python referencee, run the codework within its main respiratory (folder).
+Using Jupyter Notebook for ipynb - extension file debugging.
